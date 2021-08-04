@@ -1,0 +1,6 @@
+python:
+  - 3.6
+channel_sources:
+  - defaults
+channel_targets:
+  - deepmodeling
